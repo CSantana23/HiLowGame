@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
+//adding comments to be able to upload this doc
 public class HiLow {
     public static int randomNumber() {
         Random r = new Random();
